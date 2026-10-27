@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+myvenv/
+
+# Environment variables
+.env
+
+# Editors
+.vscode/
+.idea/
+
+# Generated files
+data/expenses.csv
+data/expenses.tmp
